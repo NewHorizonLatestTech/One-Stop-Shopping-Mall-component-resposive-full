@@ -1,0 +1,764 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* #clothesffff{
+  right: 471px;
+}
+#makeupffff{
+  right: 624px;
+} */
+#onetwotwo{
+  right: 142px;
+}
+#onethreethree{
+  right: 260px;
+}
+#onefourfour{
+  right: 367px;
+}
+#onefivefive{
+  right: 491px;
+}
+#g1{
+  left: 829px;
+  top: -228px;
+}
+#mianfdiv{
+  position: relative;
+  top: -151px;
+}
+@media only screen and (max-width: 638px) {
+  .donthavemuchdddd{
+    position: relative;
+    bottom: -438px;
+  }
+  #footer4 {
+    display: block;
+  }
+
+  #copyright {
+    font-size: 24px;
+  }
+
+  #privacypolicy {
+    font-size: 25px;
+  }
+
+  #termsofservice {
+    font-size: 24px;
+  }
+
+  #githubtwitterinstagram {
+    width: 182px;
+  }
+
+  #heder2 {
+    display: block;
+  }
+
+  #home1 {
+    position: relative;
+    left: 300px;
+    font-size: 26px;
+  }
+
+  #index1 {
+    font-size: 26px;
+    position: relative;
+    left: 318px;
+  }
+
+  #dropdown1 {
+    font-size: 26px;
+    position: relative;
+    left: 351px;
+  }
+
+  #contact1 {
+    font-size: 26px;
+    position: relative;
+    left: 387px;
+  }
+
+  #logihj {
+    width: 145px;
+    font-size: 26px;
+    position: relative;
+    height: 44px;
+    left: 454px;
+  }
+
+  #htihgk {
+    width: 188px;
+    position: relative;
+    left: 496px;
+    font-size: 26px;
+    height: 62px;
+  }
+
+
+}
+
+@media only screen and (max-width: 378px) {
+  #logo {
+    width: 330px;
+  }
+
+  #home1 {
+    font-size: 33px;
+  }
+
+  #index1 {
+    font-size: 33px;
+  }
+
+  #dropdown1 {
+    font-size: 33px;
+  }
+
+  #contact1 {
+    font-size: 33px;
+  }
+
+  #logihj {
+    font-size: 33px;
+  }
+
+  #htihgk {
+    width: 231px;
+    font-size: 33px;
+  }
+
+  #onestopshophjj {
+    font-size: 36px;
+  }
+
+  #search {
+    font-size: 33px;
+  }
+
+  #fast {
+    opacity: 0;
+  }
+
+  /* 
+  #get {
+    get
+  } */
+
+  #new {
+    font-size: 33px;
+    position: relative;
+    left: 255px;
+  }
+
+  #loremdolor {
+    font-size: 33px;
+  }
+
+  #getstartedtgh {
+    height: 51px;
+    font-size: 33px;
+  }
+
+  #learndrf {
+    font-size: 33px;
+    height: 56px;
+  }
+
+  #cardmiandivwala {
+    position: relative;
+    bottom: -17px;
+  }
+
+  #hilton1,
+  #hilton2,
+  #hilton3,
+  #hilton4,
+  #hilton5,
+  #hilton6,
+  #hilton7,
+  #hilton8 {
+    font-size: 33px;
+  }
+
+
+  #lisbon1,
+  #lisbon2,
+  #lisbon3,
+  #lisbon4,
+  #lisbon5,
+  #lisbon6,
+  #lisbon7,
+  #lisbon8 {
+    font-size: 29px;
+  }
+
+  #fourfifth {
+    font-size: 27px;
+  }
+
+  #addtocartfghuukio {
+    font-size: 26px;
+  }
+
+  #article8 {
+    position: relative;
+    bottom: -395px;
+  }
+
+  #article4 {
+    position: relative;
+    bottom: -762px;
+  }
+
+  #copyright {
+    font-size: 29px;
+  }
+
+  #privacypolicy {
+    font-size: 29px;
+  }
+
+  /* #{
+
+}
+#{
+
+}
+#{
+
+}
+#{
+
+}
+#{
+
+}
+#{
+
+}
+#{
+
+}
+#{
+
+}
+#{
+
+}
+#{
+
+} */
+}
+
+
+#ocpa {
+  width: 1600px;
+  height: 600px;
+  overflow: hidden;
+}
+
+#indexpoiu {
+  height: 318px;
+  width: 351px;
+}
+
+#aside {
+  position: relative;
+  right: 286px;
+}
+
+#previous {
+  position: relative;
+  left: 347px;
+}
+
+#next {
+  position: relative;
+  left: 338px;
+}
+#gridmainddivfott{
+  position: relative;
+  top: -105px;
+}
+#onestopshoppingmallmaindivfghj{
+  position: relative;
+  bottom: 150px;
+}
+#footertop {
+  width: 993px;
+  left: 133px;
+  position: relative;
+  top: -188px;
+}
+
+#help {
+  position: relative;
+  bottom: 69px;
+}
+
+#mainbutton {
+  width: 243px;
+  height: 65px;
+}
+
+#viewallproduct {
+  font-size: 15px;
+  position: relative;
+  top: -10px;
+}
+
+#icoond {
+  position: relative;
+  top: -12px;
+}
+
+@media only screen and (max-width: 1236px) {
+  #ocpa {
+    background-repeat: no-repeat;
+    background-size: 916px;
+    overflow: hidden;
+  }
+
+  body {
+    width: 1277px;
+  }
+
+  #get {
+    position: relative;
+    left: -129px;
+    top: 19px;
+  }
+
+  #acc {
+    position: relative;
+    left: 606px;
+  }
+
+  #help {
+    position: relative;
+    left: -71px;
+  }
+}
+
+@media only screen and (max-width: 1020px) {
+  #get {
+    left: -148px;
+  }
+
+  #fast {
+    left: -56px;
+  }
+
+  #del {
+    left: -17px;
+  }
+}
+
+@media only screen and (max-width: 638px) {
+  #inhg {
+    flex-wrap: wrap;
+  }
+
+  #search {
+    font-size: 20px;
+  }
+
+  #getstartedtgh {
+    font-size: 20px;
+  }
+
+  #learndrf {
+    font-size: 20px;
+  }
+
+  #loremdolor {
+    line-height: 30px;
+    font-size: 25px;
+  }
+
+  #help {
+    top: -77px;
+    font-size: 25px;
+  }
+
+  #shipp {
+    font-size: 25px;
+  }
+
+  #acc {
+    top: 3px;
+    font-size: 25px;
+  }
+
+  #fast {
+    font-size: 20px;
+  }
+
+  #cart {
+    top: -210px;
+    left: 863px;
+  }
+
+  #get {
+    left: -129px;
+    top: -100px;
+    left: 949px;
+    font-size: 20px;
+  }
+
+  #new {
+    font-size: 25px;
+  }
+}
+
+@media only screen and (max-width: 488px) {
+  #inhgr {
+    display: block;
+  }
+
+  #shoo {
+    top: 34px;
+    position: relative;
+  }
+}
+
+@media only screen and (max-width: 798px) {
+  #article4 {
+    right: 911px;
+    position: relative;
+    bottom: -700px;
+  }
+
+  #viewallproductre {
+    position: relative;
+    bottom: -396px;
+  }
+
+  #article8 {
+    right: 625px;
+    position: relative;
+    bottom: -343px;
+  }
+
+  #loremdolor {
+    font-size: 25px;
+    line-height: 1.4;
+  }
+
+  #new {
+    font-size: 20px;
+  }
+
+  #get {
+    top: -104px;
+    left: 951px;
+    position: relative;
+    font-size: 20px;
+  }
+
+  #cart {
+    top: -212px;
+    position: relative;
+    left: 767px;
+  }
+
+  #fast {
+    font-size: 20px;
+  }
+
+  #hilton1 {
+    font-size: 25px;
+  }
+
+  #lisbon {
+    font-size: 20px;
+  }
+
+  #viewallproduct {
+    font-size: 20px;
+    width: 411px;
+  }
+
+  #mainbutton {
+    width: 322px;
+  }
+}
+
+@media only screen and (max-width: 826px) {
+  #shipp {
+    position: relative;
+    right: -658px;
+    font-size: 26px;
+    top: -8px;
+    left: 784px;
+  }
+
+  #shipp2 {
+    left: 376px;
+    position: relative;
+    right: -432px;
+    font-size: 26px;
+    top: -8px;
+  }
+
+  #shipp3 {
+    position: relative;
+    left: 174px;
+    font-size: 26px;
+    top: -8px;
+    left: -75px;
+  }
+
+  #fast {
+    font-size: 20px;
+  }
+
+  #get {
+    font-size: 23px;
+    top: -102px;
+    left: 957px;
+  }
+
+  #cart {
+    opacity: 0;
+    position: relative;
+    left: -135px;
+  }
+
+  #new {
+    font-size: 25px;
+  }
+
+  #buildyournewidea {
+    font-size: 42px;
+  }
+
+  #loremdolor {
+    line-height: 1.2;
+    font-size: 26px;
+  }
+
+  #learndrf {
+    font-size: 20px;
+  }
+
+  #getstartedtgh {
+    font-size: 20px;
+  }
+
+  #hilton1 {
+    font-size: 26px;
+  }
+
+  #hilton2 {
+    font-size: 26px;
+  }
+
+  #hilton3 {
+    font-size: 26px;
+  }
+
+  #hilton4 {
+    font-size: 26px;
+  }
+
+  #hilton5 {
+    font-size: 26px;
+  }
+
+  #hilton6 {
+    font-size: 26px;
+  }
+
+  #hilton7 {
+    font-size: 26px;
+  }
+
+  #hilton8 {
+    font-size: 26px;
+  }
+
+  #lisbon1 {
+    font-size: 24px;
+  }
+
+  #lisbon2 {
+    font-size: 24px;
+  }
+
+  #lisbon3 {
+    font-size: 24px;
+  }
+
+  #lisbon4 {
+    font-size: 24px;
+  }
+
+  #lisbon5 {
+    font-size: 24px;
+  }
+
+  #lisbon6 {
+    font-size: 24px;
+  }
+
+  #lisbon7 {
+    font-size: 24px;
+  }
+
+  #lisbon8 {
+    font-size: 24px;
+  }
+
+  #mainbutton {
+    width: 331px;
+  }
+
+  #viewallproduct {
+    width: 292px;
+    font-size: 24px;
+  }
+}
+
+@media only screen and (max-width: 826px) {
+  #footer4 {
+    position: relative;
+    bottom: -566px;
+  }
+}
+
+
+
+#limeted {
+  height: 60px;
+}
+
+
+
+/* navbar */
+
+
+
+
+.header {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1;
+}
+
+.header a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.header ul {
+  list-style: none;
+}
+
+
+.menu-items {
+  position: relative;
+  right: 250px;
+  display: flex;
+  align-items: center;
+}
+
+.menu-items li {
+  padding: 0.5rem 1rem;
+  transition: background 0.3s ease-in-out;
+}
+
+.menu-items li:hover {
+  border-radius: 10px;
+  background-color: rgba(196, 192, 246, 0.746);
+}
+
+.dropdown {
+  position: relative;
+}
+
+
+.dropdown-menu,
+.menu-right {
+  position: absolute;
+  margin-top: 20px;
+  background: rgba(236, 192, 246, 0.811);
+  width: 200px;
+  border-radius: 10px;
+  top: 50px;
+  left: 0;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+}
+
+.menu-right {
+  top: 0;
+  left: 110%;
+}
+
+.menu-item {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.dropdown:hover .dropdown-menu {
+  top: 34px;
+  opacity: 1;
+  visibility: visible;
+
+}
+
+.dropdown-right:hover .menu-right {
+  left: 100%;
+  opacity: 1;
+  visibility: visible;
+}
+
+.mega-menu {
+  position: absolute;
+  left: 0;
+  width: 8vh;
+  top: 80px;
+  opacity: 0;
+  transition: all 0.3s ease;
+  visibility: hidden;
+}
+
+.mega-menu.content {
+  background: #122331;
+  padding: 1rem;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  width: 100%;
+  justify-content: space-between;
+
+}
+
+.section {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.section h1 {
+  font-family: "Titillium web", serif;
+  line-height: 6vh;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: yellow;
+}
+
+
